@@ -42,11 +42,11 @@ while not at_goal() :
     turn_left()
 
 #Hurdle 3 :
-def turn_right():
+def turn_right();
     turn_left()
     turn_left()
     turn_left()
-
+    
 def jump() :
     turn_left()
     move()
